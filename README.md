@@ -1,1 +1,3 @@
 # java-work-repository
+
+learn syntax, algorithm etc...
