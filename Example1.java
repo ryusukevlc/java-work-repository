@@ -16,6 +16,12 @@ public class Example1 {
             System.out.println("英語の挨拶：" + greeting);
 
         });
+
+        int[] intArray = {5, 4, 3, 2, 1};
+
+        Arrays.stream(intArray).forEach(num -> {
+            System.out.println(num);
+        });
         
 
     }
